@@ -1,7 +1,6 @@
 # Beginner-Excel-Dashboard
-
  📊 Excel Dashboard (Macro-Enabled)
-
+ 
 This project is an Excel-based dashboard created using a macro-enabled workbook (`.xlsm`). It is designed to visualize data through charts and summaries, and it includes basic automation using VBA macros.
 
  🔍 Project Overview
@@ -10,16 +9,6 @@ This project is an Excel-based dashboard created using a macro-enabled workbook 
 - Uses VBA macros for basic automation
 - Interactive charts and clean layout
 - Suitable for simple reporting and data analysis
-
- 📁 Included File
-
-- `Excel Dashboard1.xlsm` — Main file containing the dashboard
-- Raw data
-
-🧾 Requirements
-
-- Microsoft Excel 2010 or updated versions further more
-- Macros must be enabled for full functionality
 
 📊 Dashboard Analysis Summary
       🏆 Best Performer
